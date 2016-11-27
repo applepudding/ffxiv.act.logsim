@@ -6,10 +6,10 @@ This is a stand-alone app to read an act log file and outputs a new live log fil
 2. Extract .zip to preferably ACT Folder (logsim folder inside ACT main folder)
 
 ## Usage
-screenshot coming ... grabbing paint...
+Guide: http://imgur.com/a/CZpiI
 
 ## On Progress
-- Integrate the app to applbot plugin
+- Integrate the app to applbot plugin (atm it's overly complicated to use)
 
 ## Credits & Contacts
 Apple Pudding @ Leviathan
