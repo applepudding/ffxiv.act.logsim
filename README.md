@@ -8,10 +8,12 @@ This is a stand-alone app to read an act log file and outputs a new live log fil
 ## Usage
 Guide: http://imgur.com/a/CZpiI
 
+(warning) Remember to clear up the sim file text box in applbot after use (so it will grab proper act log instead of simulation log).
+
 ## On Progress
 - Integrate the app to applbot plugin (atm it's overly complicated to use)
 
 ## Credits & Contacts
-Apple Pudding @ Leviathan
+Apple Pudding, Akela Freya @ Leviathan
 
 (template: https://gist.github.com/zenorocha/4526327)
